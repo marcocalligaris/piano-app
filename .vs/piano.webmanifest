@@ -1,0 +1,10 @@
+{
+    "short_name": "Piano",
+    "name": "Piano Keyboard",
+    "icons": [{
+        "src": "./images/icon.png",
+        "sizes": "192x192"
+    }],
+    "theme_color": "#f71469",
+    "display": "fullscreen"
+}
